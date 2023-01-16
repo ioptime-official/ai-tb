@@ -22,7 +22,7 @@ assess the model's whole classification accuracy. At the end, the outcomes of mo
 ## Getting Started
 
 This project is implemented on Google Colab, it can also be used in the local machine on jupyter notebook.
-In order to run it on local machine install
+In order to run it on local machine install requirements.txt and run the project on Jupyter Notebook
 
 ```sh
 pip install -r requirements.txt
