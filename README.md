@@ -29,6 +29,6 @@ pip install -r requirements.txt
 
 ## Built With
 
-- [Python3.8](https://devdocs.io/python~3.8/)
-- [Pytorch](https://pytorch.org/)
+- Python3.8
+- Pytorch
 
